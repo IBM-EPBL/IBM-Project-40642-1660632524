@@ -1,4 +1,5 @@
 IBM-Project-40642-1660632524
+
 Personal Expense Tracker Application
                                                  
                                                  Team Members:
@@ -8,6 +9,7 @@ Personal Expense Tracker Application
                                                                4. Shalini S
 
 Category: Cloud App Development
+
 Project Description:
                     Personal finance entails all the financial decisions and activities that a Finance app makes your life easier by helping you to manage 
  your finances efficiently. A personal finance app will not only help  you with budgeting and accounting but also give you helpful insights about money management.
